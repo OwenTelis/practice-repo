@@ -1,27 +1,27 @@
-## First Name Last Name
+## Owen Telis
 
-### Term Year 
+### Spring 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- COP2073.01I&T
 
-- Course 2
+- FIN2001.01I&T
 
-- Course 3
+- EGN3448.01ENGR
 
-- Course 4
+- ENT2112.01I&T
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- I enjoy cooking
 
-- Thing 2
+- I like to play strategic games
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/29
